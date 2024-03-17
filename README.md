@@ -2,51 +2,38 @@
 
 ## 62 Heads
 
-`President`: Luv Chadha
+`President`: Aman Tripathi
 <br>
 
-`Vice President`: Aditi Aggarwal
+`Vice President`: Harsh Sharma
 <br>
 
-`Secretary`: Shreya Khosla
+`Secretary`: Anukriti Mishra
 <br>
 
-`Treasurer`: Ayush Thakur
-<br>
-<br>
-
-`Technical Head`: Naman Gupta
+`Treasurer`: Mridul Saraswat
 <br>
 
-`Webmaster`: Ronit Khatri
+`Technical Head`: Kaavya Baranwal
 <br>
 
-`Strategic Cheif`: Shrishti Ojha, Rohan Chibber
+`Strategic Chief`: Aryan Aggarwal , Ansh Kilhor
 <br>
 
-`Outreach Head`: Mehak Mathur
+`Outreach Head`: Nancy Soni
 <br>
 
-`Management Head`: Pallavi Chaudary
+`Management Head`: Prateeksha , Sanidhya
 <br>
 
-`Logistics Head`: Harshul Varshney
+`Digital Head`: Rijul Raj , Anshul
 <br>
 
-`PR Head`: Puru Tiwari, Nami Jain
-<br>
-
-`Content Head`: Charvi Gupta
-<br>
-
-`Digital Head`: Aarushee Krishna, Devika Gupta
-<br>
-
-`Creative Head`: Khushi Chauhan, Shreya Arora
+`Creative Head`: Yashvardhan
 <br>
 
 
-## 128 Heads
+<!-- ## 128 Heads
 
 `President`: Manas Tripathi
 <br>
@@ -55,4 +42,4 @@
 <br>
 
 `Outreach Head`: Kriti Behl
-<br>
+<br> -->
