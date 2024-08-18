@@ -17,10 +17,10 @@
 `Strategic Chief`: Nandini  Jindal, Sumant Sharma
 <br>
 
-`Web Master`:Rajat Bhati
+`Technical Head`: Aryan Goyal
 <br>
 
-`Technical Head`: Aryan Goyal
+`Web Master`:Rajat Bhati
 <br>
 
 `Outreach Head`: Mayer Goyal
