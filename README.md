@@ -1,35 +1,35 @@
-# JIIT OPTICA CORE TEAM 2022 - 2023
+# JIIT OPTICA CORE TEAM 2024 - 2025
 
-## 62 Heads
+<!-- ## 62 Heads -->
 
-`President`: Aman Tripathi
+`President`: Shantanu Pandey
 <br>
 
-`Vice President`: Harsh Sharma
+`Vice President`: Sai Raj Singh
 <br>
 
-`Secretary`: Anukriti Mishra
+`Secretary`: Vaibhav Vinayak
 <br>
 
-`Treasurer`: Mridul Saraswat
+`Treasurer`: Tashif Ahmad Khan
 <br>
 
-`Technical Head`: Kaavya Baranwal
+`Strategic Chief`: Nandini  Jindal, Sumant Sharma
 <br>
 
-`Strategic Chief`: Aryan Aggarwal , Ansh Kilhor
+`Web Master`:Rajat Bhati
 <br>
 
-`Outreach Head`: Nancy Soni
+`Technical Head`: Aryan Goyal
 <br>
 
-`Management Head`: Prateeksha , Sanidhya
+`Outreach Head`: Mayer Goyal
 <br>
 
-`Digital Head`: Rijul Raj , Anshul
+`Management Head`: Yash Mittal, Navy Gautam
 <br>
 
-`Creative Head`: Yashvardhan
+`Creative Head`: Raunak Sharma
 <br>
 
 
